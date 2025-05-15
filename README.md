@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sarath07848385" target="blank"><img src="https://img.shields.io/twitter/follow/@sarath07848385?logo=twitter&style=for-the-badge" alt="@sarath07848385" /></a> </p>
 
-- 🔭 I’m currently working on **swisslog**
+- 🔭 I’m currently working on **freelancer**
 
 - 🌱 I’m currently learning **react native**
 
